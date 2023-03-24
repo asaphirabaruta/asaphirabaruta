@@ -13,7 +13,7 @@ I am a software engineer currently pursuing a Master's Degree in Information Tec
 
 
 #### Qualification
-- [My Resume/CV](https://github.com/asaphirabaruta/asaphirabaruta/Resume/Asaph_Resume.pdf)
+- [My Resume/CV](https://github.com/asaphirabaruta/asaphirabaruta/blob/main/Resume/Asaph_Resume.pdf)
 
 
 Reach out to me via
