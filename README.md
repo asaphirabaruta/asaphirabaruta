@@ -8,11 +8,11 @@ I am a software engineer currently pursuing a Master's Degree in Information Tec
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![GraphQL Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-Pandas-e535ab?style=for-the-badge&labelColor=black&logo=pandas&logoColor=61DBFB)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-e535ab?style=for-the-badge&labelColor=black&logo=python&logoColor=e535ab)](#)
 
 
 #### Qualification
+
 - [My Resume/CV](https://github.com/asaphirabaruta/asaphirabaruta/blob/main/Resume/Asaph_Resume.pdf)
 
 
@@ -20,4 +20,3 @@ I am a software engineer currently pursuing a Master's Degree in Information Tec
 
 [![Twitter Badge](https://img.shields.io/badge/-@Asaph_Ira-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Asaph_Ira)](https://twitter.com/Asaph_Ira)
 [![Linkedin Badge](https://img.shields.io/badge/-Asaph-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaph-irabaruta-745087176) [![Mail Badge](https://img.shields.io/badge/-@asaphirabaruta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/asaphirabaruta) [![Mail Badge](https://img.shields.io/badge/-asaphirabaruta1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:asaphirabaruta1@gmail.com)
-
