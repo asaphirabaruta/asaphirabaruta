@@ -1,6 +1,6 @@
 ## Hello, Asaph Here! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="greeting">
 
-I am a software engineer currently pursuing a Master's Degree in Information Technology (MSIT) at Carnegie Mellon University (CMU). I enjoy coding and working on miscelaneous projects ranging from web and mobile development to data science and machine learning projects. You can find out more about me via my [website](https://portfolio-asaph.herokuapp.com/)
+I am a software engineer currently pursuing a Master's Degree in Information Technology (MSIT) at Carnegie Mellon University (CMU). I enjoy coding and working on miscellaneous projects ranging from web and mobile development to data science and machine learning projects. You can find out more about me via my [website](https://portfolio-asaph.herokuapp.com/)
 
 #### Technologies
 
