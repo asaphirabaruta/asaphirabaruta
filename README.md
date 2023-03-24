@@ -16,7 +16,7 @@ I am a software engineer currently pursuing a Master's Degree in Information Tec
 - [My Resume/CV](https://github.com/asaphirabaruta/asaphirabaruta/blob/main/Resume/Asaph_Resume.pdf)
 
 
-Reach out to me via
+:mailbox: Reach out to me via
 
 [![Twitter Badge](https://img.shields.io/badge/-@Asaph_Ira-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Asaph_Ira)](https://twitter.com/Asaph_Ira)
 [![Linkedin Badge](https://img.shields.io/badge/-Asaph-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaph-irabaruta-745087176) [![Mail Badge](https://img.shields.io/badge/-@asaphirabaruta-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/asaphirabaruta) [![Mail Badge](https://img.shields.io/badge/-asaphirabaruta1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:asaphirabaruta1@gmail.com)
